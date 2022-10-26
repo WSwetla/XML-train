@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns= "http://wswetla.com/111"
+      xmlns:a="http://wswetla.pl"
+      xmlns:b="http://wswetla.pl">
+   <b:day>
+      Sunday
+   </b:day>
+   <a:time>
+      20:00
+   </a:time>
+   <lesson>
+      XML-lection
+   </lesson>
+   <addres>
+      London
+   </addres>
+</book>
